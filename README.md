@@ -1,4 +1,4 @@
-# buildAndPost2Server
+# 一行命令解决vuejs编译上传服务器一系列操作
 # 在项目根目录执行python build.py 即可执行编译以及编译后文件上传到服务器的一些列操作
 ## 使用方法：
 1. 首先在 build.py内配置一下内容
